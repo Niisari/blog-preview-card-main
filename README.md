@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Blog-Preview-Solution](https://www.frontendmentor.io/solutions/mobile-first-solution-using-flex-box-GFuxFe-TsC)
 - Live Site URL: [Blog-Preview-Card](https://niisari.github.io/blog-preview-card-main/)
 
 ## My process
